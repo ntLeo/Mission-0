@@ -1,0 +1,15 @@
+.cardContainer {
+    display: flex;
+    padding: 2rem;
+    
+    justify-content: center;
+}
+.cardsImg {
+    width: 100%;
+}
+
+.rowCard {
+    gap: 5rem;
+    justify-content: center;
+    width: 100%;
+}

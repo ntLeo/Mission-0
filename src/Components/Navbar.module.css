@@ -1,0 +1,18 @@
+.navContainer > img {
+  width: 45px;
+  border-radius: 50%;
+}
+
+.brand {
+    margin-left: 10px;
+    margin-right: 0;
+    
+}
+
+.collapseContainer {
+    display: flex;
+    justify-content: center;
+    padding-right: 70px;
+    font-size: 20px;
+    
+}
